@@ -1,15 +1,15 @@
 -- ftd.color base-:
 light: #ffffff
-dark: #ffffff
+dark: #131017
 -- ftd.color step-1-:
 light: #f4ede4
-dark: #f4ede4
+dark: #222028
 -- ftd.color step-2-:
 light: #4a164b
 dark: #4a164b
 -- ftd.color overlay-:
 light: #00000066
-dark: #00000066
+dark: #ffffff99
 -- ftd.color code-:
 light: #eaeaea
 dark: #eaeaea
@@ -76,10 +76,10 @@ text-disabled: $cta-primary-text-disabled-
 border-disabled: $cta-primary-border-disabled-
 -- ftd.color cta-secondary-base-:
 light: #e0e0e0
-dark: #e0e0e0
+dark: #5a585d
 -- ftd.color cta-secondary-hover-:
 light: #e7e7e7
-dark: #e7e7e7
+dark: #f3f3f3
 -- ftd.color cta-secondary-pressed-:
 light: #efefef
 dark: #efefef
